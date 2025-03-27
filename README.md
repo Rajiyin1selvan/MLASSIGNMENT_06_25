@@ -14,6 +14,6 @@ git clone https://github.com/yourusername/CIFAR10-Feature-Extraction.git
 cd CIFAR10-Feature-Extraction
 
 ```
-### **2. Run the Analysis.ipynb file **
+### **2. Run the Analysis.ipynb file**
 It is Recommended to run the file snippet by snippet so that it would not cause any crash during RUN Time.
 
