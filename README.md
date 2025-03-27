@@ -10,8 +10,7 @@ This project explores **feature extraction** techniques for the CIFAR-10 dataset
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/CIFAR10-Feature-Extraction.git
-cd CIFAR10-Feature-Extraction
+git clone https://github.com/Rajiyin1selvan/MLASSIGNMENT_06_25.git
 
 ```
 ### **2. Run the Analysis.ipynb file**
